@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+.venv/
+logs/*.log
+exports/*
+models/*.joblib
+dataset/processed_transactions.csv
+dataset/rfm_features.csv
